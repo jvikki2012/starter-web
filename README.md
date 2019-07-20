@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 
 This is for test deployment in testing.
 ## Posting
+adding new status
+
